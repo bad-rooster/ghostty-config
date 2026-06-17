@@ -1,8 +1,10 @@
 theme = Alabaster
+background = FFEFC0
 minimum-contrast = 3.0
 keybind = cmd+j>x=close_surface
 keybind = cmd+j>c=new_tab
 keybind = cmd+j>d=text:\rcd ~/Development\r
+keybind = cmd+j>e=text:\rsource .venv/bin/activate\r
 keybind = cmd+j>h=goto_split:left
 keybind = cmd+j>j=goto_split:bottom
 keybind = cmd+j>k=goto_split:top
