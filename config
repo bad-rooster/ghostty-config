@@ -1,5 +1,6 @@
 theme = Alabaster
 background = FFEFC0
+minimum-contrast = 2.0
 keybind = cmd+j>x=close_surface
 keybind = cmd+j>c=new_tab
 keybind = cmd+j>d=text:\rcd ~/Development\r
